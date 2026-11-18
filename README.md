@@ -1,0 +1,3 @@
+#### **This repositories verse about the two projects done during "Regeresión, Modelos y Métodos" Lecture, encompassed in the Bioinformatics and Biostatistics Master taught by the University of Barcelona and the Open University of Cantalunya**
+##### The first HTML document covers the introduction to and estimation of the linear model, model inference, simple and multiple linear models, and model diagnostics. 
+##### The second HTML document, by contrast, addresses topics such as alternatives to the ordinary least squares method, variable selection, logistic regression, and categorical predictor variables
